@@ -1,0 +1,5 @@
+1. The web is different than the internet because the web is, to my understanding from the videos, the organizational tool used to compile the internet together, whereas the internet is just the connections itself to other networks around the world.
+2. The internet works through the communication through many different networks, which are constantly sending information between each other in a mesh looking style of connections.
+3. A directory is simply known as the folders or groups that contain files and information, to which we can refer to them through the use of paths.
+4. A VCS is beneficial because it allows you to track your changes efficiently, revert changes without having to worry about saving, and allows you to share your work with others and also collaborate together on something.
+5. Something interesting I found about this topic that I didn't know before was that the web and the internet are two separate things, which was intriguing to me and also made sense.
