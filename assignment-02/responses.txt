@@ -1,0 +1,13 @@
+1. Briefly describe one way how data travels on the internet.
+A: Data can travel on the internet in the form of bits, which are essentially combinations of 1's and 0's in order to form
+   a file.
+
+2. What is the relationship between an IP address and the DNS?
+A: IP addresses are found by your computer when looking up websites using DNS, where the DNS allows your computer to connect
+   to another through its IP address.
+
+3. What is a cookie?
+A: A cookie is a bit of data a website sends to your computer to allow the website to remember who you are.
+
+4. List the three basic parts of a URL.
+A: The three basic parts of a URL are; the protocol (http://), the domain (.com), and the path (/directory/).
