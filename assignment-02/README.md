@@ -9,4 +9,4 @@ Three things I hope to learn in this class include;
 
 [YouTube](https://www.youtube.com/)
 [Responses](./responses.txt)
-[Screenshot](./images/assignment-02-screenshot)
+[Screenshot](./images/assignment-02-screenshot.png)
