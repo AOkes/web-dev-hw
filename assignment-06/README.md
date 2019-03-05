@@ -1,0 +1,5 @@
+# Assignment 6
+## Aidan Okes
+1. Most forms I come across on the web follow a similar format, typically having boxes to enter in information, often of yourself, with submit buttons at the bottom to submit all of the information. They typically serve the purpose to give the website owners information they need to remember who you are, usually in the form of usernames or passwords.
+2. Examples of the different inputs are as follows. For text input, these can be used for usernames, or even your own name. For selection input, these can be used to determine information based on premade selections, like "What day do you plan to visit?". For button input, these can be used to determine an action the user would like to take, for example, a search button.
+3. My work cycle for this assignment was relatively easy and short. I read up on the information for this particular assignment, as well as reviewed some information from the last module.  Then I read what the assignment was, using the information from the website to assist me as needed.
