@@ -1,0 +1,5 @@
+# Assignment 7
+## Aidan Okes
+1. Divs are a block element that allows web developers group up their code into an individual element that can be easily changed with CSS styling. Classes are within the div element and determine how the element is used.  Ids are also within the div element and identify what the particular element is. Finally, spans are smaller blocks that can exist in divs if elements need extra styling.
+2. Alt text is description text, usually used for any images on a website.  These are used for people who may have difficulty seeing or cannot see, and use text to speech to read websites.  With an alt tag, the text to speech can tell the user what the image is.
+3. My work cycle for this assignment was largely like my other work cycles, with the exception of having to decide on a song that I wanted to use. After researching songs I finally came to the conclusion I wanted to use the song "Iris" by the Goo Goo Dolls because I really love the song. After selecting my song I followed the steps of the assignment online and managed to complete it.
