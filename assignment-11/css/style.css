@@ -1,0 +1,57 @@
+
+.canvas {
+  position: absolute;
+  background-color: grey;
+  width: 615px;
+  height: 640px;
+  left: 33%;
+}
+
+.square {
+  border: 17px solid black;
+}
+
+#main {
+  z-index: 3;
+  position: absolute;
+  top: 75px;
+  left: 40px;
+  background-color: lightgrey;
+  width: 400px;
+  height: 400px;
+}
+
+#yellow {
+  z-index: 2;
+  border-top: 0px;
+  position: absolute;
+  left: 240px;
+  background-color: yellow;
+  width: 200px;
+  height: 66px;
+}
+
+#black {
+  z-index: 1;
+  border-right: 0px;
+  position: absolute;
+  left: 457px;
+  background-color: black;
+  width: 142px;
+  height: 140px;
+}
+
+.credit {
+  position: absolute;
+  left: 33%;
+  top: 675px;
+  background-color: green;
+  color: white;
+  font-size: 18;
+  width: 615px;
+  height: 30px;
+  display: inline-inline-block;
+  margin-top: 10px;
+  text-align: center;
+  padding: 5px;
+}
